@@ -180,8 +180,8 @@ class LianjiaCrawlerUserAgentMiddleware(object):
 # 代理服务器
 proxyServer = "http://http-dyn.abuyun.com:9020"
 # 代理隧道验证信息
-proxyUser = "H598427E0114792D"
-proxyPass = "56780C45EE100A63"
+proxyUser = "xxxxxxx"
+proxyPass = "xxxxxxx"
 # wx链家proxy Middleware
 class LianjiaCrawlerProxyMiddleware(object):
     def process_request(self, request, spider):
