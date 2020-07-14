@@ -1,0 +1,3528 @@
+{
+    "error_code": 0,
+    "error_msg": "success",
+    "request_id": 2792735928,
+    "data": {
+        "hot_list": [
+            {
+                "id": "110000",
+                "name": "北京",
+                "short": "bj"
+            },
+            {
+                "id": "310000",
+                "name": "上海",
+                "short": "sh"
+            },
+            {
+                "id": "440300",
+                "name": "深圳",
+                "short": "sz"
+            }
+        ],
+        "classify_list": {
+            "A": [
+                {
+                    "id": "340800",
+                    "name": "安庆",
+                    "short": "aq"
+                },
+                {
+                    "id": "210300",
+                    "name": "鞍山",
+                    "short": "as",
+                    "nh_only": 1
+                },
+                {
+                    "id": "513231",
+                    "name": "阿坝",
+                    "short": "ab",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520400",
+                    "name": "安顺",
+                    "short": "anshun",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420982",
+                    "name": "安陆",
+                    "short": "anlu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530181",
+                    "name": "安宁",
+                    "short": "an",
+                    "nh_only": 1
+                },
+                {
+                    "id": "152900",
+                    "name": "阿拉善盟",
+                    "short": "alsm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610900",
+                    "name": "安康",
+                    "short": "ak",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370784",
+                    "name": "安丘",
+                    "short": "anqiu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231281",
+                    "name": "安达",
+                    "short": "ad",
+                    "nh_only": 1
+                },
+                {
+                    "id": "652901",
+                    "name": "阿克苏",
+                    "short": "aks",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410500",
+                    "name": "安阳",
+                    "short": "ay",
+                    "nh_only": 1
+                },
+                {
+                    "id": "659002",
+                    "name": "阿拉尔",
+                    "short": "alr",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130683",
+                    "name": "安国",
+                    "short": "ag",
+                    "nh_only": 1
+                }
+            ],
+            "B": [
+                {
+                    "id": "110000",
+                    "name": "北京",
+                    "short": "bj"
+                },
+                {
+                    "id": "450500",
+                    "name": "北海",
+                    "short": "bh"
+                },
+                {
+                    "id": "130600",
+                    "name": "保定",
+                    "short": "baoding"
+                },
+                {
+                    "id": "610300",
+                    "name": "宝鸡",
+                    "short": "baoji"
+                },
+                {
+                    "id": "150200",
+                    "name": "包头",
+                    "short": "baotou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "131081",
+                    "name": "霸州",
+                    "short": "bazhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511900",
+                    "name": "巴中",
+                    "short": "bz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "340300",
+                    "name": "蚌埠",
+                    "short": "bf",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520500",
+                    "name": "毕节",
+                    "short": "bijie",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530500",
+                    "name": "保山",
+                    "short": "baoshan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341600",
+                    "name": "亳州",
+                    "short": "bozhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210500",
+                    "name": "本溪",
+                    "short": "bx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220600",
+                    "name": "白山",
+                    "short": "bs",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620400",
+                    "name": "白银",
+                    "short": "by",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220800",
+                    "name": "白城",
+                    "short": "bc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371600",
+                    "name": "滨州",
+                    "short": "binzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "652700",
+                    "name": "博尔塔拉",
+                    "short": "brtl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "451000",
+                    "name": "百色",
+                    "short": "baise",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231181",
+                    "name": "北安",
+                    "short": "ba",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211381",
+                    "name": "北票",
+                    "short": "bp",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130981",
+                    "name": "泊头",
+                    "short": "botou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "652701",
+                    "name": "博乐",
+                    "short": "bole",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450981",
+                    "name": "北流",
+                    "short": "bl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469029",
+                    "name": "保亭",
+                    "short": "bt",
+                    "nh_only": 1
+                }
+            ],
+            "C": [
+                {
+                    "id": "510100",
+                    "name": "成都",
+                    "short": "cd"
+                },
+                {
+                    "id": "500000",
+                    "name": "重庆",
+                    "short": "cq"
+                },
+                {
+                    "id": "430100",
+                    "name": "长沙",
+                    "short": "cs"
+                },
+                {
+                    "id": "220100",
+                    "name": "长春",
+                    "short": "cc"
+                },
+                {
+                    "id": "430700",
+                    "name": "常德",
+                    "short": "changde"
+                },
+                {
+                    "id": "320400",
+                    "name": "常州",
+                    "short": "changzhou"
+                },
+                {
+                    "id": "130900",
+                    "name": "沧州",
+                    "short": "cangzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411082",
+                    "name": "长葛",
+                    "short": "cg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140400",
+                    "name": "长治",
+                    "short": "changzhi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520381",
+                    "name": "赤水",
+                    "short": "chishui",
+                    "nh_only": 1
+                },
+                {
+                    "id": "150400",
+                    "name": "赤峰",
+                    "short": "cf",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341700",
+                    "name": "池州",
+                    "short": "chizhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "532301",
+                    "name": "楚雄",
+                    "short": "chuxiong",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431000",
+                    "name": "郴州",
+                    "short": "chenzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "540300",
+                    "name": "昌都",
+                    "short": "changdu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211300",
+                    "name": "朝阳",
+                    "short": "chaoyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220202",
+                    "name": "昌邑",
+                    "short": "cy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "445100",
+                    "name": "潮州",
+                    "short": "chaozhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "652301",
+                    "name": "昌吉",
+                    "short": "cj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320581",
+                    "name": "常熟",
+                    "short": "changshu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "451400",
+                    "name": "崇左",
+                    "short": "chongzuo",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130800",
+                    "name": "承德",
+                    "short": "chengde",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341100",
+                    "name": "滁州",
+                    "short": "cz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421281",
+                    "name": "赤壁",
+                    "short": "cb",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450481",
+                    "name": "岑溪",
+                    "short": "cx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510184",
+                    "name": "崇州",
+                    "short": "chongzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330282",
+                    "name": "慈溪",
+                    "short": "cixi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469023",
+                    "name": "澄迈",
+                    "short": "cm",
+                    "nh_only": 1
+                }
+            ],
+            "D": [
+                {
+                    "id": "210200",
+                    "name": "大连",
+                    "short": "dl"
+                },
+                {
+                    "id": "441900",
+                    "name": "东莞",
+                    "short": "dg"
+                },
+                {
+                    "id": "210600",
+                    "name": "丹东",
+                    "short": "dd"
+                },
+                {
+                    "id": "511700",
+                    "name": "达州",
+                    "short": "dazhou"
+                },
+                {
+                    "id": "510600",
+                    "name": "德阳",
+                    "short": "dy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140200",
+                    "name": "大同",
+                    "short": "dt",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130682",
+                    "name": "定州",
+                    "short": "dingzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411381",
+                    "name": "邓州",
+                    "short": "dengzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330783",
+                    "name": "东阳",
+                    "short": "dongyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420582",
+                    "name": "当阳",
+                    "short": "dangyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "533100",
+                    "name": "德宏",
+                    "short": "dh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210882",
+                    "name": "大石桥",
+                    "short": "dsq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "533400",
+                    "name": "迪庆",
+                    "short": "diqing",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220183",
+                    "name": "德惠",
+                    "short": "dehui",
+                    "nh_only": 1
+                },
+                {
+                    "id": "361181",
+                    "name": "德兴",
+                    "short": "dx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370500",
+                    "name": "东营",
+                    "short": "dongying",
+                    "nh_only": 1
+                },
+                {
+                    "id": "621100",
+                    "name": "定西",
+                    "short": "dingxi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230600",
+                    "name": "大庆",
+                    "short": "dq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371400",
+                    "name": "德州",
+                    "short": "dezhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "232700",
+                    "name": "大兴安岭",
+                    "short": "dxal",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320904",
+                    "name": "大丰",
+                    "short": "df",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320981",
+                    "name": "东台",
+                    "short": "dongtai",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469007",
+                    "name": "东方",
+                    "short": "dongfang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "222403",
+                    "name": "敦化",
+                    "short": "dunhua",
+                    "nh_only": 1
+                },
+                {
+                    "id": "321181",
+                    "name": "丹阳",
+                    "short": "danyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211081",
+                    "name": "灯塔",
+                    "short": "dengta",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620982",
+                    "name": "敦煌",
+                    "short": "dunhuang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "632802",
+                    "name": "德令哈",
+                    "short": "dlh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420281",
+                    "name": "大冶",
+                    "short": "dazhi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410185",
+                    "name": "登封",
+                    "short": "dengfeng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510181",
+                    "name": "都江堰",
+                    "short": "djy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210681",
+                    "name": "东港",
+                    "short": "donggang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469003",
+                    "name": "儋州",
+                    "short": "dz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469021",
+                    "name": "定安",
+                    "short": "da",
+                    "nh_only": 1
+                },
+                {
+                    "id": "532900",
+                    "name": "大理",
+                    "short": "dali"
+                }
+            ],
+            "E": [
+                {
+                    "id": "420700",
+                    "name": "鄂州",
+                    "short": "ez"
+                },
+                {
+                    "id": "150600",
+                    "name": "鄂尔多斯",
+                    "short": "eeds",
+                    "nh_only": 1
+                },
+                {
+                    "id": "422801",
+                    "name": "恩施",
+                    "short": "es",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440785",
+                    "name": "恩平",
+                    "short": "ep",
+                    "nh_only": 1
+                }
+            ],
+            "F": [
+                {
+                    "id": "440600",
+                    "name": "佛山",
+                    "short": "fs"
+                },
+                {
+                    "id": "350100",
+                    "name": "福州",
+                    "short": "fz"
+                },
+                {
+                    "id": "341200",
+                    "name": "阜阳",
+                    "short": "fy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210400",
+                    "name": "抚顺",
+                    "short": "fushun",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360981",
+                    "name": "丰城",
+                    "short": "fengcheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "361000",
+                    "name": "抚州",
+                    "short": "fuzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370983",
+                    "name": "肥城",
+                    "short": "fc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450600",
+                    "name": "防城港",
+                    "short": "fcg"
+                },
+                {
+                    "id": "652302",
+                    "name": "阜康",
+                    "short": "fk",
+                    "nh_only": 1
+                },
+                {
+                    "id": "141182",
+                    "name": "汾阳",
+                    "short": "fenyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "522702",
+                    "name": "福泉",
+                    "short": "fq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350981",
+                    "name": "福安",
+                    "short": "fa",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210682",
+                    "name": "凤城",
+                    "short": "fch",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350982",
+                    "name": "福鼎",
+                    "short": "fd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350181",
+                    "name": "福清",
+                    "short": "fuqing",
+                    "nh_only": 1
+                }
+            ],
+            "G": [
+                {
+                    "id": "440100",
+                    "name": "广州",
+                    "short": "gz"
+                },
+                {
+                    "id": "520100",
+                    "name": "贵阳",
+                    "short": "gy"
+                },
+                {
+                    "id": "450300",
+                    "name": "桂林",
+                    "short": "gl"
+                },
+                {
+                    "id": "360700",
+                    "name": "赣州",
+                    "short": "ganzhou"
+                },
+                {
+                    "id": "321084",
+                    "name": "高邮",
+                    "short": "gaoyou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511600",
+                    "name": "广安",
+                    "short": "ga",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140181",
+                    "name": "古交",
+                    "short": "gujiao",
+                    "nh_only": 1
+                },
+                {
+                    "id": "513328",
+                    "name": "甘孜",
+                    "short": "ganzi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421381",
+                    "name": "广水",
+                    "short": "gs",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210881",
+                    "name": "盖州",
+                    "short": "gaizhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220381",
+                    "name": "公主岭",
+                    "short": "gzl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440981",
+                    "name": "高州",
+                    "short": "gaozhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230225",
+                    "name": "甘南",
+                    "short": "gn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370785",
+                    "name": "高密",
+                    "short": "gm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "640400",
+                    "name": "固原",
+                    "short": "guyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450800",
+                    "name": "贵港",
+                    "short": "gg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450881",
+                    "name": "桂平",
+                    "short": "gp",
+                    "nh_only": 1
+                },
+                {
+                    "id": "632801",
+                    "name": "格尔木",
+                    "short": "grm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "532501",
+                    "name": "个旧",
+                    "short": "gejiu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360681",
+                    "name": "贵溪",
+                    "short": "gx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130684",
+                    "name": "高碑店",
+                    "short": "gbd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510800",
+                    "name": "广元",
+                    "short": "guangyuan",
+                    "nh_only": 1
+                }
+            ],
+            "H": [
+                {
+                    "id": "330100",
+                    "name": "杭州",
+                    "short": "hz"
+                },
+                {
+                    "id": "340100",
+                    "name": "合肥",
+                    "short": "hf"
+                },
+                {
+                    "id": "441300",
+                    "name": "惠州",
+                    "short": "hui"
+                },
+                {
+                    "id": "460100",
+                    "name": "海口",
+                    "short": "hk"
+                },
+                {
+                    "id": "230100",
+                    "name": "哈尔滨",
+                    "short": "hrb"
+                },
+                {
+                    "id": "420200",
+                    "name": "黄石",
+                    "short": "huangshi"
+                },
+                {
+                    "id": "320800",
+                    "name": "淮安",
+                    "short": "ha"
+                },
+                {
+                    "id": "150100",
+                    "name": "呼和浩特",
+                    "short": "hhht"
+                },
+                {
+                    "id": "330500",
+                    "name": "湖州",
+                    "short": "huzhou"
+                },
+                {
+                    "id": "610700",
+                    "name": "汉中",
+                    "short": "hanzhong"
+                },
+                {
+                    "id": "130400",
+                    "name": "邯郸",
+                    "short": "hd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430400",
+                    "name": "衡阳",
+                    "short": "hy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "131100",
+                    "name": "衡水",
+                    "short": "hs",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371700",
+                    "name": "菏泽",
+                    "short": "heze",
+                    "nh_only": 1
+                },
+                {
+                    "id": "340400",
+                    "name": "淮南",
+                    "short": "huainan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "340600",
+                    "name": "淮北",
+                    "short": "huaibei",
+                    "nh_only": 1
+                },
+                {
+                    "id": "150700",
+                    "name": "呼伦贝尔",
+                    "short": "hlbr",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341000",
+                    "name": "黄山",
+                    "short": "huangshan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421083",
+                    "name": "洪湖",
+                    "short": "honghu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341522",
+                    "name": "霍邱",
+                    "short": "hq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210381",
+                    "name": "海城",
+                    "short": "haicheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431200",
+                    "name": "怀化",
+                    "short": "hh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431281",
+                    "name": "洪江",
+                    "short": "hongjiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211400",
+                    "name": "葫芦岛",
+                    "short": "hld",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220282",
+                    "name": "桦甸",
+                    "short": "huadian",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440982",
+                    "name": "化州",
+                    "short": "huazhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441600",
+                    "name": "河源",
+                    "short": "heyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230400",
+                    "name": "鹤岗",
+                    "short": "hegang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "630200",
+                    "name": "海东",
+                    "short": "haidong",
+                    "nh_only": 1
+                },
+                {
+                    "id": "632800",
+                    "name": "海西",
+                    "short": "haixi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231083",
+                    "name": "海林",
+                    "short": "hl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231100",
+                    "name": "黑河",
+                    "short": "heihe",
+                    "nh_only": 1
+                },
+                {
+                    "id": "650500",
+                    "name": "哈密",
+                    "short": "hm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "451100",
+                    "name": "贺州",
+                    "short": "hezhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "451200",
+                    "name": "河池",
+                    "short": "hc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410600",
+                    "name": "鹤壁",
+                    "short": "hb",
+                    "nh_only": 1
+                },
+                {
+                    "id": "653201",
+                    "name": "和田",
+                    "short": "ht",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410602",
+                    "name": "鹤山",
+                    "short": "hsh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "460000",
+                    "name": "海南",
+                    "short": "hn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421100",
+                    "name": "黄冈",
+                    "short": "hg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "222404",
+                    "name": "珲春",
+                    "short": "hunchun",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130983",
+                    "name": "黄骅",
+                    "short": "huanghua",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130984",
+                    "name": "河间",
+                    "short": "hj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610581",
+                    "name": "韩城",
+                    "short": "hancheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "141081",
+                    "name": "侯马",
+                    "short": "houma",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511681",
+                    "name": "华蓥",
+                    "short": "huaying",
+                    "nh_only": 1
+                },
+                {
+                    "id": "451381",
+                    "name": "合山",
+                    "short": "heshan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410782",
+                    "name": "辉县",
+                    "short": "huixian",
+                    "nh_only": 1
+                },
+                {
+                    "id": "141082",
+                    "name": "霍州",
+                    "short": "huozhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520382",
+                    "name": "仁怀",
+                    "short": "hr",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330481",
+                    "name": "海宁",
+                    "short": "haining",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370687",
+                    "name": "海阳",
+                    "short": "haiyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320684",
+                    "name": "海门",
+                    "short": "haimen",
+                    "nh_only": 1
+                }
+            ],
+            "J": [
+                {
+                    "id": "370101",
+                    "name": "济南",
+                    "short": "jn"
+                },
+                {
+                    "id": "330400",
+                    "name": "嘉兴",
+                    "short": "jx"
+                },
+                {
+                    "id": "440700",
+                    "name": "江门",
+                    "short": "jiangmen"
+                },
+                {
+                    "id": "220200",
+                    "name": "吉林",
+                    "short": "jl"
+                },
+                {
+                    "id": "330700",
+                    "name": "金华",
+                    "short": "jh"
+                },
+                {
+                    "id": "360800",
+                    "name": "吉安",
+                    "short": "jian"
+                },
+                {
+                    "id": "360400",
+                    "name": "九江",
+                    "short": "jiujiang"
+                },
+                {
+                    "id": "370800",
+                    "name": "济宁",
+                    "short": "jining",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420800",
+                    "name": "荆门",
+                    "short": "jm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410800",
+                    "name": "焦作",
+                    "short": "jiaozuo",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510185",
+                    "name": "简阳",
+                    "short": "jianyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "321282",
+                    "name": "靖江",
+                    "short": "jingjiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "419001",
+                    "name": "济源",
+                    "short": "jiyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140500",
+                    "name": "晋城",
+                    "short": "jc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421000",
+                    "name": "荆州",
+                    "short": "jingzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "532801",
+                    "name": "景洪",
+                    "short": "jinghong",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210700",
+                    "name": "锦州",
+                    "short": "jinzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360200",
+                    "name": "景德镇",
+                    "short": "jdz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620200",
+                    "name": "嘉峪关",
+                    "short": "jyg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620300",
+                    "name": "金昌",
+                    "short": "jinchang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620900",
+                    "name": "酒泉",
+                    "short": "jq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230300",
+                    "name": "鸡西",
+                    "short": "jixi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "445200",
+                    "name": "揭阳",
+                    "short": "jieyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230800",
+                    "name": "佳木斯",
+                    "short": "jms",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320413",
+                    "name": "金坛",
+                    "short": "jt",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140700",
+                    "name": "晋中",
+                    "short": "jz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "433101",
+                    "name": "吉首",
+                    "short": "jishou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350783",
+                    "name": "建瓯",
+                    "short": "jo",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220281",
+                    "name": "蛟河",
+                    "short": "jiaohe",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330182",
+                    "name": "建德",
+                    "short": "jd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "131103",
+                    "name": "冀州",
+                    "short": "jizhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "321183",
+                    "name": "句容",
+                    "short": "jr",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330421",
+                    "name": "嘉善",
+                    "short": "jiashan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370281",
+                    "name": "胶州",
+                    "short": "jiaozhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360124",
+                    "name": "进贤",
+                    "short": "jinxian",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510781",
+                    "name": "江油",
+                    "short": "jiangyou",
+                    "nh_only": 1
+                }
+            ],
+            "K": [
+                {
+                    "id": "410200",
+                    "name": "开封",
+                    "short": "kf"
+                },
+                {
+                    "id": "530100",
+                    "name": "昆明",
+                    "short": "km"
+                },
+                {
+                    "id": "320583",
+                    "name": "昆山",
+                    "short": "ks"
+                },
+                {
+                    "id": "440783",
+                    "name": "开平",
+                    "short": "kp",
+                    "nh_only": 1
+                },
+                {
+                    "id": "522601",
+                    "name": "凯里",
+                    "short": "kaili",
+                    "nh_only": 1
+                },
+                {
+                    "id": "532502",
+                    "name": "开远",
+                    "short": "ky",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211282",
+                    "name": "开原",
+                    "short": "kaiyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "650200",
+                    "name": "克拉玛依",
+                    "short": "klmy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "652801",
+                    "name": "库尔勒",
+                    "short": "krl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "653000",
+                    "name": "克孜勒苏",
+                    "short": "kzls",
+                    "nh_only": 1
+                },
+                {
+                    "id": "653101",
+                    "name": "喀什",
+                    "short": "kashi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "654003",
+                    "name": "奎屯",
+                    "short": "kt",
+                    "nh_only": 1
+                }
+            ],
+            "L": [
+                {
+                    "id": "131000",
+                    "name": "廊坊",
+                    "short": "lf"
+                },
+                {
+                    "id": "410300",
+                    "name": "洛阳",
+                    "short": "luoyang"
+                },
+                {
+                    "id": "450200",
+                    "name": "柳州",
+                    "short": "liuzhou"
+                },
+                {
+                    "id": "620100",
+                    "name": "兰州",
+                    "short": "lz"
+                },
+                {
+                    "id": "513400",
+                    "name": "凉山",
+                    "short": "liangshan"
+                },
+                {
+                    "id": "371300",
+                    "name": "临沂",
+                    "short": "linyi"
+                },
+                {
+                    "id": "320700",
+                    "name": "连云港",
+                    "short": "lyg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371500",
+                    "name": "聊城",
+                    "short": "lc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510500",
+                    "name": "泸州",
+                    "short": "luzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411100",
+                    "name": "漯河",
+                    "short": "luohe",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330781",
+                    "name": "兰溪",
+                    "short": "lanxi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "331082",
+                    "name": "临海",
+                    "short": "lh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "331100",
+                    "name": "丽水",
+                    "short": "lishui",
+                    "nh_only": 1
+                },
+                {
+                    "id": "331181",
+                    "name": "龙泉",
+                    "short": "lq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520200",
+                    "name": "六盘水",
+                    "short": "lps",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140821",
+                    "name": "临猗",
+                    "short": "lin",
+                    "nh_only": 1
+                },
+                {
+                    "id": "141000",
+                    "name": "临汾",
+                    "short": "linfen",
+                    "nh_only": 1
+                },
+                {
+                    "id": "141100",
+                    "name": "吕梁",
+                    "short": "lvliang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341500",
+                    "name": "六安",
+                    "short": "la",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530700",
+                    "name": "丽江",
+                    "short": "lj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530900",
+                    "name": "临沧",
+                    "short": "lincang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430281",
+                    "name": "醴陵",
+                    "short": "liling",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430682",
+                    "name": "临湘",
+                    "short": "linxiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350681",
+                    "name": "龙海",
+                    "short": "longhai",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211000",
+                    "name": "辽阳",
+                    "short": "liaoyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "540100",
+                    "name": "拉萨",
+                    "short": "lasa",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360281",
+                    "name": "乐平",
+                    "short": "lp",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431300",
+                    "name": "娄底",
+                    "short": "loudi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440881",
+                    "name": "廉江",
+                    "short": "lianjiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220400",
+                    "name": "辽源",
+                    "short": "liaoyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440882",
+                    "name": "雷州",
+                    "short": "leizhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370682",
+                    "name": "莱阳",
+                    "short": "laiyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "621200",
+                    "name": "陇南",
+                    "short": "ln",
+                    "nh_only": 1
+                },
+                {
+                    "id": "622901",
+                    "name": "临夏",
+                    "short": "lx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441882",
+                    "name": "连州",
+                    "short": "lianzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371200",
+                    "name": "莱芜",
+                    "short": "lw",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371481",
+                    "name": "乐陵",
+                    "short": "ll",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371581",
+                    "name": "临清",
+                    "short": "linqing",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320481",
+                    "name": "溧阳",
+                    "short": "liyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410581",
+                    "name": "林州",
+                    "short": "linzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "451300",
+                    "name": "来宾",
+                    "short": "lb",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511100",
+                    "name": "乐山",
+                    "short": "leshan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350800",
+                    "name": "龙岩",
+                    "short": "ly",
+                    "nh_only": 1
+                },
+                {
+                    "id": "222405",
+                    "name": "龙井",
+                    "short": "longjing",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220681",
+                    "name": "临江",
+                    "short": "linjiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211382",
+                    "name": "凌源",
+                    "short": "lingyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140481",
+                    "name": "潞城",
+                    "short": "lucheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "422802",
+                    "name": "利川",
+                    "short": "lichuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431381",
+                    "name": "冷水江",
+                    "short": "lsj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431382",
+                    "name": "涟源",
+                    "short": "lianyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511381",
+                    "name": "阆中",
+                    "short": "langzhong",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440281",
+                    "name": "乐昌",
+                    "short": "lechang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441581",
+                    "name": "陆丰",
+                    "short": "lufeng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "445381",
+                    "name": "罗定",
+                    "short": "luoding",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350122",
+                    "name": "连江",
+                    "short": "lianj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370285",
+                    "name": "莱西",
+                    "short": "laixi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420682",
+                    "name": "老河口",
+                    "short": "lhk",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430181",
+                    "name": "浏阳",
+                    "short": "liuyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370683",
+                    "name": "莱州",
+                    "short": "laizhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469027",
+                    "name": "乐东",
+                    "short": "ld",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469028",
+                    "name": "陵水",
+                    "short": "ls",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469024",
+                    "name": "临高",
+                    "short": "lg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "101140",
+                    "name": "林芝",
+                    "short": "linzhi",
+                    "nh_only": 1
+                }
+            ],
+            "M": [
+                {
+                    "id": "510700",
+                    "name": "绵阳",
+                    "short": "mianyang"
+                },
+                {
+                    "id": "340500",
+                    "name": "马鞍山",
+                    "short": "mas"
+                },
+                {
+                    "id": "511400",
+                    "name": "眉山",
+                    "short": "ms"
+                },
+                {
+                    "id": "341182",
+                    "name": "明光",
+                    "short": "mingguang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440900",
+                    "name": "茂名",
+                    "short": "mm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441400",
+                    "name": "梅州",
+                    "short": "meizhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231000",
+                    "name": "牡丹江",
+                    "short": "mdj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410883",
+                    "name": "孟州",
+                    "short": "mengzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230382",
+                    "name": "密山",
+                    "short": "mishan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "150781",
+                    "name": "满洲里",
+                    "short": "mzl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421181",
+                    "name": "麻城",
+                    "short": "mc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510683",
+                    "name": "绵竹",
+                    "short": "mianzhu",
+                    "nh_only": 1
+                }
+            ],
+            "N": [
+                {
+                    "id": "320100",
+                    "name": "南京",
+                    "short": "nj"
+                },
+                {
+                    "id": "330200",
+                    "name": "宁波",
+                    "short": "nb"
+                },
+                {
+                    "id": "360100",
+                    "name": "南昌",
+                    "short": "nc"
+                },
+                {
+                    "id": "511300",
+                    "name": "南充",
+                    "short": "nanchong"
+                },
+                {
+                    "id": "320600",
+                    "name": "南通",
+                    "short": "nt"
+                },
+                {
+                    "id": "450100",
+                    "name": "南宁",
+                    "short": "nn"
+                },
+                {
+                    "id": "411300",
+                    "name": "南阳",
+                    "short": "ny",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511000",
+                    "name": "内江",
+                    "short": "neijiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350583",
+                    "name": "南安",
+                    "short": "na",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350700",
+                    "name": "南平",
+                    "short": "np",
+                    "nh_only": 1
+                },
+                {
+                    "id": "533300",
+                    "name": "怒江",
+                    "short": "nujiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350900",
+                    "name": "宁德",
+                    "short": "nd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "540600",
+                    "name": "那曲",
+                    "short": "nq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360703",
+                    "name": "南康",
+                    "short": "nk",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230281",
+                    "name": "讷河",
+                    "short": "nh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231084",
+                    "name": "宁安",
+                    "short": "ningan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341881",
+                    "name": "宁国",
+                    "short": "ng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130581",
+                    "name": "南宫",
+                    "short": "nangong",
+                    "nh_only": 1
+                }
+            ],
+            "P": [
+                {
+                    "id": "410900",
+                    "name": "濮阳",
+                    "short": "py",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510400",
+                    "name": "攀枝花",
+                    "short": "pzh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210214",
+                    "name": "普兰店",
+                    "short": "pld",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350300",
+                    "name": "莆田",
+                    "short": "pt",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211100",
+                    "name": "盘锦",
+                    "short": "pj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360300",
+                    "name": "萍乡",
+                    "short": "pingxiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620800",
+                    "name": "平凉",
+                    "short": "pl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "445281",
+                    "name": "普宁",
+                    "short": "pn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410400",
+                    "name": "平顶山",
+                    "short": "pds",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370283",
+                    "name": "平度",
+                    "short": "pd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330482",
+                    "name": "平湖",
+                    "short": "ph",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320382",
+                    "name": "邳州",
+                    "short": "pz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530800",
+                    "name": "普洱",
+                    "short": "pr",
+                    "nh_only": 1
+                }
+            ],
+            "Q": [
+                {
+                    "id": "370200",
+                    "name": "青岛",
+                    "short": "qd"
+                },
+                {
+                    "id": "350500",
+                    "name": "泉州",
+                    "short": "quanzhou"
+                },
+                {
+                    "id": "441800",
+                    "name": "清远",
+                    "short": "qy"
+                },
+                {
+                    "id": "130283",
+                    "name": "迁安",
+                    "short": "qa",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140121",
+                    "name": "清徐",
+                    "short": "qx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330800",
+                    "name": "衢州",
+                    "short": "quzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520181",
+                    "name": "清镇",
+                    "short": "qingzhen",
+                    "nh_only": 1
+                },
+                {
+                    "id": "522600",
+                    "name": "黔东南",
+                    "short": "qdn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "522700",
+                    "name": "黔南",
+                    "short": "qn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530300",
+                    "name": "曲靖",
+                    "short": "qj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "429005",
+                    "name": "潜江",
+                    "short": "qianjiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370781",
+                    "name": "青州",
+                    "short": "qingzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230200",
+                    "name": "齐齐哈尔",
+                    "short": "qqhr",
+                    "nh_only": 1
+                },
+                {
+                    "id": "621000",
+                    "name": "庆阳",
+                    "short": "qingyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370881",
+                    "name": "曲阜",
+                    "short": "qf",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230900",
+                    "name": "七台河",
+                    "short": "qth",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450700",
+                    "name": "钦州",
+                    "short": "qinzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410882",
+                    "name": "沁阳",
+                    "short": "qinyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130300",
+                    "name": "秦皇岛",
+                    "short": "qhd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "640381",
+                    "name": "青铜峡",
+                    "short": "qtx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320113",
+                    "name": "栖霞",
+                    "short": "qixia",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320681",
+                    "name": "启东",
+                    "short": "qidong",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510183",
+                    "name": "邛崃",
+                    "short": "ql",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469002",
+                    "name": "琼海",
+                    "short": "qh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469030",
+                    "name": "琼中",
+                    "short": "qz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "522300",
+                    "name": "黔西南",
+                    "short": "qianxinan",
+                    "nh_only": 1
+                }
+            ],
+            "R": [
+                {
+                    "id": "330381",
+                    "name": "瑞安",
+                    "short": "ra",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130982",
+                    "name": "任丘",
+                    "short": "rq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "533102",
+                    "name": "瑞丽",
+                    "short": "rl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "540200",
+                    "name": "日喀则",
+                    "short": "rkz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360781",
+                    "name": "瑞金",
+                    "short": "rj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371100",
+                    "name": "日照",
+                    "short": "rz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410482",
+                    "name": "汝州",
+                    "short": "ruzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360481",
+                    "name": "瑞昌",
+                    "short": "rc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320682",
+                    "name": "如皋",
+                    "short": "rg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371082",
+                    "name": "荣成",
+                    "short": "rongcheng",
+                    "nh_only": 1
+                }
+            ],
+            "S": [
+                {
+                    "id": "310000",
+                    "name": "上海",
+                    "short": "sh"
+                },
+                {
+                    "id": "440300",
+                    "name": "深圳",
+                    "short": "sz"
+                },
+                {
+                    "id": "130100",
+                    "name": "石家庄",
+                    "short": "sjz"
+                },
+                {
+                    "id": "210100",
+                    "name": "沈阳",
+                    "short": "sy"
+                },
+                {
+                    "id": "320500",
+                    "name": "苏州",
+                    "short": "su"
+                },
+                {
+                    "id": "460200",
+                    "name": "三亚",
+                    "short": "san"
+                },
+                {
+                    "id": "330600",
+                    "name": "绍兴",
+                    "short": "sx"
+                },
+                {
+                    "id": "361100",
+                    "name": "上饶",
+                    "short": "sr"
+                },
+                {
+                    "id": "440500",
+                    "name": "汕头",
+                    "short": "st",
+                    "nh_only": 1
+                },
+                {
+                    "id": "321300",
+                    "name": "宿迁",
+                    "short": "sq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "321322",
+                    "name": "沭阳",
+                    "short": "shuyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510900",
+                    "name": "遂宁",
+                    "short": "sn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411400",
+                    "name": "商丘",
+                    "short": "shangqiu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "131082",
+                    "name": "三河",
+                    "short": "sanhe",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420300",
+                    "name": "十堰",
+                    "short": "shiyan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421081",
+                    "name": "石首",
+                    "short": "shishou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421087",
+                    "name": "松滋",
+                    "short": "songzi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341300",
+                    "name": "宿州",
+                    "short": "suzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350400",
+                    "name": "三明",
+                    "short": "sm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430500",
+                    "name": "邵阳",
+                    "short": "shaoyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350581",
+                    "name": "石狮",
+                    "short": "shishi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440200",
+                    "name": "韶关",
+                    "short": "shaoguan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440606",
+                    "name": "顺德",
+                    "short": "sd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220300",
+                    "name": "四平",
+                    "short": "sp",
+                    "nh_only": 1
+                },
+                {
+                    "id": "611000",
+                    "name": "商洛",
+                    "short": "sl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220700",
+                    "name": "松原",
+                    "short": "songyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230183",
+                    "name": "尚志",
+                    "short": "shangzhi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441500",
+                    "name": "汕尾",
+                    "short": "sw",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370783",
+                    "name": "寿光",
+                    "short": "shouguang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230500",
+                    "name": "双鸭山",
+                    "short": "sys",
+                    "nh_only": 1
+                },
+                {
+                    "id": "640200",
+                    "name": "石嘴山",
+                    "short": "szs",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231200",
+                    "name": "绥化",
+                    "short": "suihua",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330683",
+                    "name": "嵊州",
+                    "short": "shengzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231081",
+                    "name": "绥芬河",
+                    "short": "sfh",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510682",
+                    "name": "什邡",
+                    "short": "sf",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350781",
+                    "name": "邵武",
+                    "short": "shaowu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430382",
+                    "name": "韶山",
+                    "short": "ss",
+                    "nh_only": 1
+                },
+                {
+                    "id": "131182",
+                    "name": "深州",
+                    "short": "shenzhou",
+                    "nh_only": 1
+                }
+            ],
+            "T": [
+                {
+                    "id": "120000",
+                    "name": "天津",
+                    "short": "tj"
+                },
+                {
+                    "id": "140100",
+                    "name": "太原",
+                    "short": "ty"
+                },
+                {
+                    "id": "331000",
+                    "name": "台州",
+                    "short": "taizhou"
+                },
+                {
+                    "id": "130200",
+                    "name": "唐山",
+                    "short": "ts"
+                },
+                {
+                    "id": "321200",
+                    "name": "泰州",
+                    "short": "tz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370900",
+                    "name": "泰安",
+                    "short": "ta",
+                    "nh_only": 1
+                },
+                {
+                    "id": "321283",
+                    "name": "泰兴",
+                    "short": "tx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520600",
+                    "name": "铜仁",
+                    "short": "tr",
+                    "nh_only": 1
+                },
+                {
+                    "id": "340700",
+                    "name": "铜陵",
+                    "short": "tl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "150500",
+                    "name": "通辽",
+                    "short": "tongliao",
+                    "nh_only": 1
+                },
+                {
+                    "id": "340881",
+                    "name": "桐城",
+                    "short": "tc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "429006",
+                    "name": "天门",
+                    "short": "tm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211200",
+                    "name": "铁岭",
+                    "short": "tieling",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610200",
+                    "name": "铜川",
+                    "short": "tongchuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440781",
+                    "name": "台山",
+                    "short": "taishan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220500",
+                    "name": "通化",
+                    "short": "tonghua",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370481",
+                    "name": "滕州",
+                    "short": "tengzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620500",
+                    "name": "天水",
+                    "short": "tianshui",
+                    "nh_only": 1
+                },
+                {
+                    "id": "650400",
+                    "name": "吐鲁番",
+                    "short": "tlf",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230781",
+                    "name": "铁力",
+                    "short": "tieli",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341181",
+                    "name": "天长",
+                    "short": "tianchang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330483",
+                    "name": "桐乡",
+                    "short": "tongxiang",
+                    "nh_only": 1
+                }
+            ],
+            "W": [
+                {
+                    "id": "420100",
+                    "name": "武汉",
+                    "short": "wh"
+                },
+                {
+                    "id": "320200",
+                    "name": "无锡",
+                    "short": "wx"
+                },
+                {
+                    "id": "371000",
+                    "name": "威海",
+                    "short": "weihai"
+                },
+                {
+                    "id": "370700",
+                    "name": "潍坊",
+                    "short": "wf"
+                },
+                {
+                    "id": "340200",
+                    "name": "芜湖",
+                    "short": "wuhu"
+                },
+                {
+                    "id": "330300",
+                    "name": "温州",
+                    "short": "wz"
+                },
+                {
+                    "id": "650100",
+                    "name": "乌鲁木齐",
+                    "short": "wlmq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130481",
+                    "name": "武安",
+                    "short": "wa",
+                    "nh_only": 1
+                },
+                {
+                    "id": "331081",
+                    "name": "温岭",
+                    "short": "wl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "150300",
+                    "name": "乌海",
+                    "short": "wuhai",
+                    "nh_only": 1
+                },
+                {
+                    "id": "150900",
+                    "name": "乌兰察布",
+                    "short": "wlcb",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210281",
+                    "name": "瓦房店",
+                    "short": "wfd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "532601",
+                    "name": "文山",
+                    "short": "ws",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610500",
+                    "name": "渭南",
+                    "short": "weinan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "440883",
+                    "name": "吴川",
+                    "short": "wuchuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620600",
+                    "name": "武威",
+                    "short": "ww",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230184",
+                    "name": "五常",
+                    "short": "wuchang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "640300",
+                    "name": "吴忠",
+                    "short": "wuzhong",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450400",
+                    "name": "梧州",
+                    "short": "wuzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410481",
+                    "name": "舞钢",
+                    "short": "wugang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410781",
+                    "name": "卫辉",
+                    "short": "weihui",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430581",
+                    "name": "武冈",
+                    "short": "wg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231182",
+                    "name": "五大连池",
+                    "short": "wdlc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421182",
+                    "name": "武穴",
+                    "short": "wuxue",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511781",
+                    "name": "万源",
+                    "short": "wy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130130",
+                    "name": "无极",
+                    "short": "wj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469006",
+                    "name": "万宁",
+                    "short": "wn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469001",
+                    "name": "五指山",
+                    "short": "wzs",
+                    "nh_only": 1
+                },
+                {
+                    "id": "469005",
+                    "name": "文昌",
+                    "short": "wc",
+                    "nh_only": 1
+                }
+            ],
+            "X": [
+                {
+                    "id": "350200",
+                    "name": "厦门",
+                    "short": "xm"
+                },
+                {
+                    "id": "610100",
+                    "name": "西安",
+                    "short": "xa"
+                },
+                {
+                    "id": "320300",
+                    "name": "徐州",
+                    "short": "xz"
+                },
+                {
+                    "id": "411000",
+                    "name": "许昌",
+                    "short": "xc"
+                },
+                {
+                    "id": "420600",
+                    "name": "襄阳",
+                    "short": "xy"
+                },
+                {
+                    "id": "410700",
+                    "name": "新乡",
+                    "short": "xinxiang"
+                },
+                {
+                    "id": "610400",
+                    "name": "咸阳",
+                    "short": "xianyang"
+                },
+                {
+                    "id": "130500",
+                    "name": "邢台",
+                    "short": "xt",
+                    "nh_only": 1
+                },
+                {
+                    "id": "630100",
+                    "name": "西宁",
+                    "short": "xining",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420900",
+                    "name": "孝感",
+                    "short": "xg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130184",
+                    "name": "新乐",
+                    "short": "xl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411500",
+                    "name": "信阳",
+                    "short": "xinyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140900",
+                    "name": "忻州",
+                    "short": "xinzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "152502",
+                    "name": "锡林浩特",
+                    "short": "xlht",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210181",
+                    "name": "新民",
+                    "short": "xinmin",
+                    "nh_only": 1
+                },
+                {
+                    "id": "429004",
+                    "name": "仙桃",
+                    "short": "xiantao",
+                    "nh_only": 1
+                },
+                {
+                    "id": "341800",
+                    "name": "宣城",
+                    "short": "xuancheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430300",
+                    "name": "湘潭",
+                    "short": "xiangtan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430381",
+                    "name": "湘乡",
+                    "short": "xiangxiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360500",
+                    "name": "新余",
+                    "short": "xinyu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "433100",
+                    "name": "湘西",
+                    "short": "xx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441481",
+                    "name": "兴宁",
+                    "short": "xingning",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370982",
+                    "name": "新泰",
+                    "short": "xintai",
+                    "nh_only": 1
+                },
+                {
+                    "id": "421200",
+                    "name": "咸宁",
+                    "short": "xn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "152500",
+                    "name": "锡林郭勒盟",
+                    "short": "xlglm",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610481",
+                    "name": "兴平",
+                    "short": "xp",
+                    "nh_only": 1
+                },
+                {
+                    "id": "513401",
+                    "name": "西昌",
+                    "short": "xichang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "522301",
+                    "name": "兴义",
+                    "short": "xingyi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530381",
+                    "name": "宣威",
+                    "short": "xw",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411681",
+                    "name": "项城",
+                    "short": "xiangcheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "211481",
+                    "name": "兴城",
+                    "short": "xingcheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410182",
+                    "name": "荥阳",
+                    "short": "xingyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410183",
+                    "name": "新密",
+                    "short": "xinmi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320381",
+                    "name": "新沂",
+                    "short": "xiny",
+                    "nh_only": 1
+                },
+                {
+                    "id": "532800",
+                    "name": "西双版纳",
+                    "short": "xsbn",
+                    "nh_only": 1
+                },
+                {
+                    "id": "888886",
+                    "name": "雄安新区",
+                    "short": "xan"
+                }
+            ],
+            "Y": [
+                {
+                    "id": "370600",
+                    "name": "烟台",
+                    "short": "yt"
+                },
+                {
+                    "id": "420500",
+                    "name": "宜昌",
+                    "short": "yichang"
+                },
+                {
+                    "id": "640100",
+                    "name": "银川",
+                    "short": "yinchuan"
+                },
+                {
+                    "id": "320900",
+                    "name": "盐城",
+                    "short": "yc"
+                },
+                {
+                    "id": "430600",
+                    "name": "岳阳",
+                    "short": "yy"
+                },
+                {
+                    "id": "321000",
+                    "name": "扬州",
+                    "short": "yz",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210800",
+                    "name": "营口",
+                    "short": "yk",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411024",
+                    "name": "鄢陵",
+                    "short": "yanling",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411081",
+                    "name": "禹州",
+                    "short": "yuzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511500",
+                    "name": "宜宾",
+                    "short": "yibin",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330782",
+                    "name": "义乌",
+                    "short": "yw",
+                    "nh_only": 1
+                },
+                {
+                    "id": "511800",
+                    "name": "雅安",
+                    "short": "yaan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330784",
+                    "name": "永康",
+                    "short": "yongkang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140300",
+                    "name": "阳泉",
+                    "short": "yq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420581",
+                    "name": "宜都",
+                    "short": "yd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140800",
+                    "name": "运城",
+                    "short": "yuncheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420981",
+                    "name": "应城",
+                    "short": "yingcheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530400",
+                    "name": "玉溪",
+                    "short": "yx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "350481",
+                    "name": "永安",
+                    "short": "yongan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430900",
+                    "name": "益阳",
+                    "short": "yiyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431100",
+                    "name": "永州",
+                    "short": "yongzhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "220182",
+                    "name": "榆树",
+                    "short": "yushu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360600",
+                    "name": "鹰潭",
+                    "short": "yingtan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610600",
+                    "name": "延安",
+                    "short": "ya",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360900",
+                    "name": "宜春",
+                    "short": "ych",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610800",
+                    "name": "榆林",
+                    "short": "yulin",
+                    "nh_only": 1
+                },
+                {
+                    "id": "222400",
+                    "name": "延边",
+                    "short": "yb",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620981",
+                    "name": "玉门",
+                    "short": "ym",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441700",
+                    "name": "阳江",
+                    "short": "yangjiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441781",
+                    "name": "阳春",
+                    "short": "yangchun",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441881",
+                    "name": "英德",
+                    "short": "yingde",
+                    "nh_only": 1
+                },
+                {
+                    "id": "230700",
+                    "name": "伊春",
+                    "short": "yichun",
+                    "nh_only": 1
+                },
+                {
+                    "id": "371482",
+                    "name": "禹城",
+                    "short": "yucheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "450900",
+                    "name": "玉林",
+                    "short": "yl",
+                    "nh_only": 1
+                },
+                {
+                    "id": "654000",
+                    "name": "伊犁",
+                    "short": "yili",
+                    "nh_only": 1
+                },
+                {
+                    "id": "321081",
+                    "name": "仪征",
+                    "short": "yizheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "222401",
+                    "name": "延吉",
+                    "short": "yj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "654002",
+                    "name": "伊宁",
+                    "short": "yining",
+                    "nh_only": 1
+                },
+                {
+                    "id": "140881",
+                    "name": "永济",
+                    "short": "yongji",
+                    "nh_only": 1
+                },
+                {
+                    "id": "451281",
+                    "name": "宜州",
+                    "short": "yizhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320282",
+                    "name": "宜兴",
+                    "short": "yixing",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430981",
+                    "name": "沅江",
+                    "short": "yuanjiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411481",
+                    "name": "永城",
+                    "short": "yongcheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "410381",
+                    "name": "偃师",
+                    "short": "yanshi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330281",
+                    "name": "余姚",
+                    "short": "yr",
+                    "nh_only": 1
+                }
+            ],
+            "Z": [
+                {
+                    "id": "442000",
+                    "name": "中山",
+                    "short": "zs"
+                },
+                {
+                    "id": "440400",
+                    "name": "珠海",
+                    "short": "zh"
+                },
+                {
+                    "id": "410100",
+                    "name": "郑州",
+                    "short": "zz"
+                },
+                {
+                    "id": "370300",
+                    "name": "淄博",
+                    "short": "zb"
+                },
+                {
+                    "id": "440800",
+                    "name": "湛江",
+                    "short": "zhanjiang"
+                },
+                {
+                    "id": "430200",
+                    "name": "株洲",
+                    "short": "zhuzhou"
+                },
+                {
+                    "id": "350600",
+                    "name": "漳州",
+                    "short": "zhangzhou"
+                },
+                {
+                    "id": "321100",
+                    "name": "镇江",
+                    "short": "zj"
+                },
+                {
+                    "id": "130700",
+                    "name": "张家口",
+                    "short": "zjk"
+                },
+                {
+                    "id": "370400",
+                    "name": "枣庄",
+                    "short": "zaozhuang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130133",
+                    "name": "赵县",
+                    "short": "zhaoxian",
+                    "nh_only": 1
+                },
+                {
+                    "id": "510300",
+                    "name": "自贡",
+                    "short": "zg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130281",
+                    "name": "遵化",
+                    "short": "zhunhua",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411600",
+                    "name": "周口",
+                    "short": "zk",
+                    "nh_only": 1
+                },
+                {
+                    "id": "411700",
+                    "name": "驻马店",
+                    "short": "zmd",
+                    "nh_only": 1
+                },
+                {
+                    "id": "512000",
+                    "name": "资阳",
+                    "short": "ziyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330900",
+                    "name": "舟山",
+                    "short": "zhoushan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420583",
+                    "name": "枝江",
+                    "short": "zhijiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420881",
+                    "name": "钟祥",
+                    "short": "zhongxiang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "530600",
+                    "name": "昭通",
+                    "short": "zt",
+                    "nh_only": 1
+                },
+                {
+                    "id": "210283",
+                    "name": "庄河",
+                    "short": "zhuanghe",
+                    "nh_only": 1
+                },
+                {
+                    "id": "430800",
+                    "name": "张家界",
+                    "short": "zjj",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370181",
+                    "name": "章丘",
+                    "short": "zhangqiu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "441200",
+                    "name": "肇庆",
+                    "short": "zq",
+                    "nh_only": 1
+                },
+                {
+                    "id": "620700",
+                    "name": "张掖",
+                    "short": "zy",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370685",
+                    "name": "招远",
+                    "short": "zhaoyuan",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370782",
+                    "name": "诸城",
+                    "short": "zhucheng",
+                    "nh_only": 1
+                },
+                {
+                    "id": "370883",
+                    "name": "邹城",
+                    "short": "zc",
+                    "nh_only": 1
+                },
+                {
+                    "id": "640500",
+                    "name": "中卫",
+                    "short": "zw",
+                    "nh_only": 1
+                },
+                {
+                    "id": "231282",
+                    "name": "肇东",
+                    "short": "zhaodong",
+                    "nh_only": 1
+                },
+                {
+                    "id": "320582",
+                    "name": "张家港",
+                    "short": "zjg",
+                    "nh_only": 1
+                },
+                {
+                    "id": "431081",
+                    "name": "资兴",
+                    "short": "zx",
+                    "nh_only": 1
+                },
+                {
+                    "id": "360982",
+                    "name": "樟树",
+                    "short": "zhangshu",
+                    "nh_only": 1
+                },
+                {
+                    "id": "610124",
+                    "name": "周至",
+                    "short": "zhouzhi",
+                    "nh_only": 1
+                },
+                {
+                    "id": "330681",
+                    "name": "诸暨",
+                    "short": "zhuji",
+                    "nh_only": 1
+                },
+                {
+                    "id": "420683",
+                    "name": "枣阳",
+                    "short": "zaoyang",
+                    "nh_only": 1
+                },
+                {
+                    "id": "130681",
+                    "name": "涿州",
+                    "short": "zhuozhou",
+                    "nh_only": 1
+                },
+                {
+                    "id": "520300",
+                    "name": "遵义",
+                    "short": "zunyi",
+                    "nh_only": 1
+                }
+            ]
+        },
+        "has_new": 1,
+        "sign": "d7058532de30e90835f66d6f1951e398"
+    }
+}
