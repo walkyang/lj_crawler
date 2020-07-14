@@ -109,18 +109,18 @@ CONCURRENT_REQUESTS_PER_IP=300
 WXLJ_APP_ID = "ljwxapp:"
 WXLJ_APP_KEY = "6e8566e348447383e16fdd1b233dbb49"
 
-MYSQL_SETTING = "{'310000':{'MYSQL_HOST':'61.151.249.246','MYSQL_DBNAME':'hw_data_sh','MYSQL_USER':'root','MYSQL_PASSWORD':'231!@#qwe','MYSQL_PORT':3306}," \
-                "'110000':{'MYSQL_HOST':'61.151.249.246','MYSQL_DBNAME':'hw_data_bj','MYSQL_USER':'root','MYSQL_PASSWORD':'231!@#qwe','MYSQL_PORT':3306}," \
-                "'330100':{'MYSQL_HOST':'61.151.249.246','MYSQL_DBNAME':'hw_data_hz','MYSQL_USER':'root','MYSQL_PASSWORD':'231!@#qwe','MYSQL_PORT':3306}," \
-                "'320500':{'MYSQL_HOST':'61.151.249.246','MYSQL_DBNAME':'hw_data_suzhou','MYSQL_USER':'root','MYSQL_PASSWORD':'231!@#qwe','MYSQL_PORT':3306}," \
-                "'320200':{'MYSQL_HOST':'61.151.249.246','MYSQL_DBNAME':'hw_data_wuxi','MYSQL_USER':'root','MYSQL_PASSWORD':'231!@#qwe','MYSQL_PORT':3306}," \
-                "'320583':{'MYSQL_HOST':'61.151.249.246','MYSQL_DBNAME':'hw_data_ks','MYSQL_USER':'root','MYSQL_PASSWORD':'231!@#qwe','MYSQL_PORT':3306}," \
-                "'330200':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_nb','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'330400':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_jx','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'330600':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_sx','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'320400':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_changzhou','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'321100':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_zj','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'320100':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_nj','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'320300':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_xz','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'320900':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_yc','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}," \
-                "'340100':{'MYSQL_HOST':'47.99.117.126','MYSQL_DBNAME':'dataface_data_hf','MYSQL_USER':'root','MYSQL_PASSWORD':'dataface!q1','MYSQL_PORT':3306}}"
+MYSQL_SETTING = "{'310000':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'sh','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'110000':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'bj','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'330100':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'hz','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'320500':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'suzhou','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'320200':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'wuxi','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'320583':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'ks','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'330200':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'nb','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'330400':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'jx','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'330600':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'sx','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'320400':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'changzhou','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'321100':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'zj','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'320100':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'nj','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'320300':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'xz','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'320900':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'yc','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}," \
+                "'340100':{'MYSQL_HOST':'127.0.0.1','MYSQL_DBNAME':'hf','MYSQL_USER':'root','MYSQL_PASSWORD':'123456','MYSQL_PORT':3306}}"
